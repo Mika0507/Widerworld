@@ -1,0 +1,50 @@
+ div {
+    background-color: lightblue;
+    height: 20rem;
+    width: 90%;
+    border: 2px solid green;
+    margin: 0 center;
+    font-size: 5em;
+    text-align: center;
+}
+
+#header-color {
+    background-color: greenyellow;
+    opacity: 0.5;
+    position: absolute;
+}
+
+footer {
+    background-color: plum;
+    margin: 0 auto;
+    height: 5rem;
+    
+}
+
+header {
+    background-color: beige;
+    height: 21rem;
+}
+
+body {
+    margin: 0 auto;
+}
+
+nav {
+    background-color: pink;
+    display: inline-block;
+    width: 90%;
+}
+
+.inup {
+    height: 6em;
+    width: 10%;
+    font-size: 0.75em;
+    text-align: right;
+    position: absolute;
+    border: 1px solid blue;
+    background-color: whitesmoke;
+    padding-right: 5px;
+    box-sizing: border-box;
+    z-index: 1;
+}
